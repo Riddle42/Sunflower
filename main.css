@@ -1,0 +1,110 @@
+#corps{
+	background-color: #084B8A;
+	margin-right: 20%;
+	margin-left: 20%;
+	font-size: larger;
+	padding:10px;	
+	font-family: comic sans ms;
+} 
+
+a:link{
+	text-decoration: none;
+}
+
+#lien{
+	text-decoration: none;
+	color: black;
+	font: 16px "Lucida Grande";
+	border: 1px solid rgb(12, 12, 11);
+	border-radius: 20px;
+	background-color: hsl(51, 91%, 55%);
+	width: 280px;
+  	height: 70px;
+	padding-left: 10px;
+}  
+
+#app-title{
+		text-decoration:none;
+		font: 40px "Lucida Grande";
+		border: 1px solid rgb(12, 12, 11);
+		border-radius: 20px;
+		background-color: hsl(51, 91%, 55%);
+		width: 110px;
+		height: 60px;
+		padding-left: 10px;
+}
+
+div#galerie
+{
+  width: 410px ;
+  background: #eed ;
+  border: 1px solid #dcb ;
+  padding: 15px ;
+  margin: 15px 30px ;
+  text-align: center ;
+  font: 0.9em Georgia, serif ;
+}
+
+ul#galerie_mini
+{
+  margin: 0 ;
+  padding: 0 ;
+  list-style-type: none ;
+}
+
+ul#galerie_mini li
+{
+  float: left ;
+}
+
+ul#galerie_mini li a img
+{
+  margin: 2px 1px ;
+  border: 1px solid #dcb ;
+}
+
+dl#photo
+{
+  clear: both ;
+  margin: 0 auto ;
+}
+
+dl#photo dt
+{
+  font: italic 2.5em/1.5em Georgia, serif ;
+  color: #dcb ;
+}
+
+dl#photo dd
+{
+  margin: 0 ;
+}
+
+dl#photo img
+{
+  border: 1px solid #dcb ;
+}
+
+h1{
+	font-family: math;
+}	
+
+h2{
+	text-decoration: underline;
+	text-decoration-color: #000000;
+} 
+
+h3{
+	text-decoration : strong;
+	text-decoration : underline;
+	text-decoration-color: #1182de;
+}
+
+h4{
+	font-style:italic;
+}
+
+body{
+	background-image: url("images et autres/Tournesols.jpg");
+	background-attachment: fixed;
+}
